@@ -1,0 +1,5 @@
+ID			NOM			PRENOM			LOGIN			MOT DE PASS			CIN			EMAIL			TELEPHONE			SEXE			ID_AGENCE
+1			Kheir allah	Anissa		anissa2		123456		AA345566			anissakh@gmail.com	212661334455		FEMME		NULL
+2			bellaly 	Aya		ayouy		123456		C12345			aya.g@gmail.com	212651223344		FEMME		NULL
+3			Hairane 	Chaimae		Stella		stellaStar		C665544			chaimae.hairane@gmail.com	0034332221445		FEMME		NULL
+4			Karam 	Maroua		maroua1		ms3322		XE43325			Maroua.@gmail.com	004322334445		FEMME		NULL
